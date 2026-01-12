@@ -1,1 +1,21 @@
-
+{
+  "name": "Neon Runner 3D",
+  "short_name": "NeonRunner",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ff0055",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "[https://via.placeholder.com/192x192/ff0055/ffffff?text=NR](https://via.placeholder.com/192x192/ff0055/ffffff?text=NR)",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "[https://via.placeholder.com/512x512/ff0055/ffffff?text=NeonRunner](https://via.placeholder.com/512x512/ff0055/ffffff?text=NeonRunner)",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
